@@ -1,4 +1,6 @@
 Name: Nabal
 Sex: Female
 Race: Zeilnan
-Description: an orphan who alongside her best friend, Vae, struggles to figure out what she is and why she was left at the orphanage; as she grows up, she learns that she is very different from the average Zeilnan, having powers and extensive control over certain elements
+Description: an orphan who alongside her best friend, Vae, struggles to figure out what she is and why she was left at the orphanage;
+    as she grows up, she learns that she is very different from the average Zeilnan, having powers and extensive control over certain
+    elements
