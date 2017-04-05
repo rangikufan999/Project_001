@@ -1,0 +1,4 @@
+Name: Kaips
+Height: 3'2"-3'10"
+Description: a race of bipedal chipmunks
+Culture: most specialize in ninjutsu as well as the shadow arts
