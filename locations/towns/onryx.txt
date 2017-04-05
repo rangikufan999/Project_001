@@ -1,0 +1,5 @@
+Name: Onryx
+Continent: Prubera
+Description: portside town located in the southern peninsula; known for being a bustling trading post with a rich multi-cultural
+    diversity; the people tend to be accepting towards those from all walks of life
+Common Races: Flovelese, Prismians, Anuks
